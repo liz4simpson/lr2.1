@@ -1,0 +1,5 @@
+print ("4*100-54=")
+print("Write your answer: ")
+answerUser = input()
+print("Correct answer is: ", 4*100-54)
+print("Your answer is: " + answerUser)
